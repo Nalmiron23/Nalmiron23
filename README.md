@@ -1,7 +1,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicolas-a-a44196193/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/almironico)
 
-- :computer: Data Science && Data Engineering | Software Development | (https://nicalmirondev.com) in Helsinki, Finland.
+- :computer: Machine Learning && Data Engineering | Software Development | (https://nicalmirondev.com) in Helsinki, Finland.
 - 🖥 Cisco Certified Ethical Hacker | Cisco Certified Junior Cyber security Analyst
 - ☁️ AWS Certified Machine Learning - Specialty Certification Preparation | Designing Secure solutions in AWS - Level 1 & 2 | AWS Developer – Associate (DVA-C02) Certification Preparation
 - ☁️ 🤖  Essential Cloud Infrastructure: Foundation, Core Infrastructure, Core Services courses, GCP | Machine Learning on GCP
