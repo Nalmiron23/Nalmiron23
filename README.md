@@ -67,7 +67,7 @@ Train, containerize, and deploy an ML model with FastAPI, Docker, GitHub Actions
 
 ## 🌐 Personal Website
 
-(https://nicalmirondev.com)
+https://nicalmirondev.com
 
 ---
 
