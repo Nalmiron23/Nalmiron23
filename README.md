@@ -23,8 +23,15 @@ DevOps | MLOps | Cloud Infrastructure
 Train, containerize, and deploy an ML model with FastAPI, Docker, GitHub Actions, and cloud hosting.  
 →  [View Repository](#soon)
 
+## 🎓 Education
+
+- **Vocational Training in IT Systems Administration (ASIR)**  
+  *FP Prometeo, Online – 2024 to 2026 (expected)*  
+  Linux systems, networking, cybersecurity, cloud platforms (AWS, GCP, Azure).
 
 ---
+
+
 
 ## 🎓 Learning Roadmap (2025–2026)
 
@@ -69,7 +76,7 @@ Train, containerize, and deploy an ML model with FastAPI, Docker, GitHub Actions
 
 https://nicalmirondev.com
 
----
+
 
 ## 🧍 About Me
 
