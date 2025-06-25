@@ -11,9 +11,39 @@ I’m a software engineer focused on building scalable ML systems, automating de
 
 DevOps | MLOps | Cloud Infrastructure
 
-- Docker, GitHub Actions, AWS EC2, Terraform, MLflow
-- Model lifecycle automation, tracking, and scalable deployment
-- Building reproducible training + inference pipelines
+### 🖥 Systems & Scripting
+- Linux (Ubuntu, CLI, shell scripting), Git, Bash, Zsh
+- Python for automation, scripting, and glue code
+- Build tools: Gradle, Maven, NPM
+
+### 🧱 Infrastructure as Code & Config Management
+- Terraform (IaC): AWS + EKS provisioning, modular infra
+- Ansible (CM): server config, playbooks, automation pipelines
+
+### 🚀 CI/CD & Pipelines
+- Jenkins + GitHub Actions for end-to-end CI/CD
+- Artifact management: DockerHub, Nexus, ECR
+- Release automation to AWS (EC2, Docker Compose, EKS)
+- CI/CD integration with K8s and container registries
+
+### 📦 Containers & Orchestration
+- Docker: image creation, Compose, volume management
+- Kubernetes: local + EKS, Helm charts, deployment strategies
+- K8s operators and secrets management
+
+### ☁️ Cloud Platforms
+- AWS: IAM, EC2, VPC, ECR, S3, EKS, CloudFormation
+- DigitalOcean for smaller scale deployments
+- (Upcoming) Azure for multi-cloud readiness
+
+### 📈 Monitoring & Observability
+- Prometheus + Alertmanager + Grafana
+- Monitoring K8s clusters, AWS services, apps, third-party APIs
+
+### 🤖 MLOps & ML Infrastructure
+- MLflow: experiment tracking, model registry, reproducibility
+- FastAPI for serving ML models (PyTorch, scikit-learn)
+- Reproducible training & inference pipelines with Docker + CI/CD
 
 ---
 
