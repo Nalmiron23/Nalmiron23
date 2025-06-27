@@ -67,9 +67,9 @@ Train, containerize, and deploy an ML model with FastAPI, Docker, GitHub Actions
 
 - ✅ ML Deployments (FastAPI + Docker)
 - ⏳ CI/CD + GitHub Actions
-- 🔜 Terraform + AWS Infra
-- 🔜 MLflow + Model Monitoring
-- 🔜 Kubernetes + autoscaling
+- ⏳ Terraform + AWS Infra
+- ⏳ MLflow + Model Monitoring
+- ⏳ Kubernetes + autoscaling
 
 ---
 
