@@ -34,7 +34,7 @@ DevOps | MLOps | Cloud Infrastructure
 ### ☁️ Cloud Platforms
 - AWS: IAM, EC2, VPC, ECR, S3, EKS, CloudFormation
 - DigitalOcean for smaller scale deployments
-- (Upcoming) Azure for multi-cloud readiness
+- Azure for multi-cloud readiness
 
 ### 📈 Monitoring & Observability
 - Prometheus + Alertmanager + Grafana
@@ -56,7 +56,7 @@ Train, containerize, and deploy an ML model with FastAPI, Docker, GitHub Actions
 ## 🎓 Education
 
 - **Vocational Training in IT Systems Administration (ASIR)**  
-  *FP Prometeo, Online – 2024 to 2026 (expected)*  
+  *FP Prometeo, Online – 2024 to 2026*  
   Linux systems, networking, cybersecurity, cloud platforms (AWS, GCP, Azure).
 
 ---
@@ -111,5 +111,5 @@ https://nicalmirondev.com
 ## 🧍 About Me
 
 Languages: 🇸🇪 🇪🇸 🇬🇧  
-Based in Helsinki. Fan of motorsports, open-source, padel and road cycling.
+Based in Finland. Fan of motorsports, open-source, padel and road cycling.
 
