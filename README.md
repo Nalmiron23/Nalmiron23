@@ -51,7 +51,12 @@ DevOps | MLOps | Cloud Infrastructure
 
 - **Vocational Training in IT Systems Administration (ASIR)**  
   *FP Prometeo, Online – 2024 to 2026*  
-  Linux systems, networking, cybersecurity, cloud platforms (AWS, GCP, Azure).
+ Focus:
+- Linux Administration
+- Networking
+- Cybersecurity
+- Cloud Infrastructure
+- Systems Automation
 
 ---
 
