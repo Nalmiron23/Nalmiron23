@@ -57,7 +57,7 @@ DevOps | MLOps | Cloud Infrastructure
 
 ## Experience Highlights
 
-- **Software Developer – Shifting Horizons (2020–2025, Helsinki)**
+- **Software Developer – Shifting Horizons (2020–present, Helsinki)**
   Led the ML engineering and full-stack delivery of an AI-based adult development scoring platform.  
   → Took startup from concept to prototype to market in <6 months.  
   → Designed full architecture (Vue, Node.js, AWS, PyTorch, Docker, GitHub Actions).  
