@@ -47,29 +47,11 @@ DevOps | MLOps | Cloud Infrastructure
 
 ---
 
-## 🧪 Current Project
-
-**End-to-End ML Deployment**  
-Train, containerize, and deploy an ML model with FastAPI, Docker, GitHub Actions, and cloud hosting.  
-→  [View Repository](#soon)
-
 ## 🎓 Education
 
 - **Vocational Training in IT Systems Administration (ASIR)**  
   *FP Prometeo, Online – 2024 to 2026*  
   Linux systems, networking, cybersecurity, cloud platforms (AWS, GCP, Azure).
-
----
-
-
-
-## 🎓 Learning Roadmap (2025–2026)
-
-- ✅ ML Deployments (FastAPI + Docker)
-- ⏳ CI/CD + GitHub Actions
-- ⏳ Terraform + AWS Infra
-- ⏳ MLflow + Model Monitoring
-- ⏳ Kubernetes + autoscaling
 
 ---
 
@@ -81,7 +63,7 @@ Train, containerize, and deploy an ML model with FastAPI, Docker, GitHub Actions
   → Designed full architecture (Vue, Node.js, AWS, PyTorch, Docker, GitHub Actions).  
   → Secured EU funding (ERDF) through applied ML product success.
 
-- **DevOps Engineer (Junior) – CujoAI (2024–2025, Helsinki)**
+- **DevOps Engineer – CujoAI (2024–2025, Helsinki)**
   Contributed to infrastructure automation and CI/CD pipeline operations.  
   → IaC with Terraform & CloudFormation, managed multi-environment AWS stacks.  
   → CI/CD pipelines with Jenkins & AWS CodeArtifact.  
