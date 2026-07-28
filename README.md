@@ -58,12 +58,14 @@ DevOps | MLOps | Cloud Infrastructure
 ## Experience Highlights
 
 - **Software Developer – Shifting Horizons (2020–present, Helsinki)**
+
   Led the ML engineering and full-stack delivery of an AI-based adult development scoring platform.  
   → Took startup from concept to prototype to market in <6 months.  
   → Designed full architecture (Vue, Node.js, AWS, PyTorch, Docker, GitHub Actions).  
   → Secured EU funding (ERDF) through applied ML product success.
 
 - **DevOps Engineer – CujoAI (2024–2025, Helsinki)**
+
   Contributed to infrastructure automation and CI/CD pipeline operations.  
   → IaC with Terraform & CloudFormation, managed multi-environment AWS stacks.  
   → CI/CD pipelines with Jenkins & AWS CodeArtifact.  
@@ -71,11 +73,13 @@ DevOps | MLOps | Cloud Infrastructure
   → Tools: AWS CLI, Bash, Docker, Kubernetes, TypeScript.
   
 - **Software Engineer – CloudWalk (2022, remote)**
+
   Developed and maintained frontend systems for B2B fintech products.  
   → Stack: React, TypeScript, Node.js, Cypress, GCP.  
   → Contributed to codebase refactor and internal documentation (Confluence + GitHub).
 
 - **RPA & Jr Blockchain Dev – Altfield (2018–2020, Stockholm)**
+
   Delivered RPA bots and smart contract systems from design to deployment.  
   → UiPath, Solidity, JavaScript, Node.js, Figma.  
   → Built test coverage (unit, integration, simulation) for smart contracts.  
